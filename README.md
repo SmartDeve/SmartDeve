@@ -246,16 +246,6 @@ Real-World AI
 
 ---
 
-# 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SmartDeve/SmartDeve/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
