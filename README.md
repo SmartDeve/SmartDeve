@@ -232,9 +232,8 @@ Real-World AI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SmartDeve&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartDeve&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
