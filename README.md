@@ -121,56 +121,102 @@ Exploring wearable systems for **haptic interaction and arm tracking**, combinin
 
 ## 🤖 DobotExpress
 
-A Python library for communicating with and controlling **Dobot Magician robotic arms**.
+A **Python-based robotic control library** for communicating with and controlling **Dobot Magician robotic arms** through their serial communication interface.
 
-Developed through reverse engineering of the Dobot communication interface and used for robotic automation workflows.
+### Highlights
 
-**Python · Robotics · Serial Communication · Industrial Automation**
+- 🐍 Python-based robotic control
+- 🔌 Serial communication with Dobot Magician
+- 📡 Reverse-engineered Dobot communication protocol
+- 🤖 Cartesian & joint motion control
+- 🎯 Position and pose commands
+- ⚙️ End-effector and I/O control
+- 📦 Command packet construction and parsing
+- 🔄 Real-time command/response communication
+- 🏭 Integration with robotic automation workflows
 
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_DOBOTEXPRESS_REPO)
+**Python · Robotics · Serial Communication · Protocol Reverse Engineering · Motion Control · Industrial Automation**
+
+[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartDeve/TheDobotExpress)
+---
+
+## 🌐 MicroWeb3 — Ethereum for Embedded Systems
+
+A **lightweight C++ Ethereum/Web3 library for ESP32 and resource-constrained devices**, enabling embedded systems to communicate directly with Ethereum-compatible networks through cryptography, smart-contract interfaces, transaction encoding, and JSON-RPC.
+
+### Highlights
+
+- ESP32 + ESP-IDF
+- Ethereum JSON-RPC
+- ABI encoding/decoding
+- Keccak-256
+- secp256k1 ECDSA
+- RLP encoding
+- EIP-155 transaction signing
+- Ethereum address derivation
+
+**C++ · Embedded Systems · Ethereum · Cryptography · Web3*
+
+
+[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartDeve/MicroWeb3)
 
 ---
 
-## 🔐 Nikash — Hardware Web3 Verifier
+## 🦾 Wearable Haptic & Soft Robotics
 
-An **ESP32-based hardware verifier terminal** combining embedded systems, NFC, cryptography, and blockchain infrastructure.
+Developing **multilayer TPU pneumatic actuators and CNC-based fabrication processes** for wearable haptic and rehabilitation applications, combining soft robotics with automated manufacturing.
+
+### Highlights
+
+- 🦾 TPU pneumatic actuators
+- 🔥 CNC heat-sealing & multilayer fabrication
+- 🧩 Rotary & multilayer origami actuators
+- 🎛️ CNC process control & parameter optimization
+- ♿ Rehabilitation applications
+
+**Soft Robotics · Wearable Haptics · CNC Manufacturing · Embedded Systems · Automation**
+
+[![Google Drive](https://img.shields.io/badge/Letter-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kxc0nzKdoPZVe2GHws-ZW0_YPOfO1hoU/view)
+---
+## 🔐 NikashVerifier — Hardware Web3 Verifier
+
+An ESP32-based NFC verification terminal that connects physical credentials with blockchain infrastructure, combining NFC authentication, cryptographic hashing, smart-contract interaction, and on-chain ticket verification.
 
 ### Highlights
 
 - ESP32 + ESP-IDF + FreeRTOS
 - PN532 NFC
 - Keccak-256
-- secp256k1 ECDSA
-- RLP encoding
+- Ethereum JSON-RPC
+- Smart Contract ABI
+- On-chain ticket verification
 - EIP-155 transaction signing
-- Ethereum RPC
-- Hardware-secured key handling
+- ESP32 NVS key storage
+- SH1106 OLED display
+- WS2812 status indicators
 
-**C++ · Embedded Systems · Cryptography · NFC · Web3**
+**C++ · Embedded Systems · NFC · Cryptography · Ethereum · Web3**
 
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_NIKASH_REPO)
-
----
-
-## 🦾 Haptic Wearable
-
-A wearable hardware platform exploring **haptic feedback, arm tracking, and AR/VR interaction**.
-
-Combines embedded systems with computer vision to create physical interfaces for immersive computing.
-
-**Embedded Systems · Wearables · Computer Vision · AR/VR**
-
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_HAPTICS_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartDeve/NikashVerifier)
 
 ---
-
 ## 🏭 Industry 4.0 Robotic Automation
 
-Automation workflows combining **robotic arms, sensors, conveyors, and IoT systems** for industrial applications.
+An **industrial robotic automation system** integrating robotic arms, computer vision, sensors, conveyors, and IoT-enabled control for intelligent material handling, inspection, and automated manufacturing workflows.
 
-**Robotics · Automation · IoT · Sensors · Industry 4.0**
+### Highlights
 
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_ROBOTICS_REPO)
+- 🤖 Robotic arm automation
+- 👁️ Computer vision & vision-based control
+- 📡 Industrial sensor integration
+- ⚙️ Conveyor-based material handling
+- 🔌 Embedded & IoT control
+- 🎯 Automated pick-and-place workflows
+- 🏭 Industry 4.0 manufacturing integration
+
+**Robotics · Computer Vision · Embedded Systems · Automation · IoT · Sensors · Industry 4.0**
+
+[![Demo Videos](https://img.shields.io/badge/▶%20Demo%20Videos-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1RFP1F8S95dkxhN5tGskG2CtgyueU81sT)
 
 ---
 
