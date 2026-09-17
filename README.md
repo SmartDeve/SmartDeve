@@ -4,7 +4,7 @@
 
 # Hey, I'm Adityya Roy 👋
 
-### 🤖 Robotics · 🔌 Embedded Systems · 🌐 IoT · 🦾 Haptics · 🧠 Physical AI
+### 🤖 Robotics · 🔌 Embedded Systems · 🌐 IoT · 🦾 Haptics
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Embedded+Systems;IoT+%26+Industrial+Automation;Wearables+%26+Haptic+Interfaces;Building+Intelligent+Hardware)](https://git.io/typing-svg)
 
