@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a **Chemical Engineering undergraduate at BIT Mesra** working at the intersection of **robotics, embedded systems, IoT, intelligent hardware, and physical AI**.
+I'm an **undergraduate at BIT Mesra** working at the intersection of **robotics, embedded systems, IoT, intelligent hardware, and physical AI**.
 
 I've worked on **robotic automation and Industry 4.0 systems at IIT Bombay**, developed **ESP32-based embedded firmware and hardware**, and worked on **wearable haptic systems for AR/VR**.
 
